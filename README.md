@@ -3,9 +3,8 @@
 High-Performance Computing Coursework Assignment 2023-24
 
 
-Jaime Galiana Herrera
-
-MEng Aeronautics with Spacecraft Engineering
+Jaime Galiana Herrera 
+MEng Aeronautics with Spacecraft Engineering 
 
 Imperial College London
 
